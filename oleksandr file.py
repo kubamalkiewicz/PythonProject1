@@ -1,0 +1,1 @@
+print("kuba boss kfc")
