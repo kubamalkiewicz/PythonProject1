@@ -1,3 +1,5 @@
-a = 2
-if a == 2:
-    print('A is 2')
+a = 1
+b = 2
+def multiplication():
+    return a*b
+print(multiplication())
