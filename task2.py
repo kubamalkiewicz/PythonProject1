@@ -1,2 +1,7 @@
-a = input('Please input a number: ')
-print(f'The number you wrote is {a}!')
+a = 1
+b = 2
+def division():
+    return a/b
+print(division())
+
+gggggg
